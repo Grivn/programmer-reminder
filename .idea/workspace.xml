@@ -23,7 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f98bab6-aa32-4a57-b3b4-13486577899a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/git/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/git/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssh/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
