@@ -54,3 +54,22 @@ Host host # nickname
 ```
 
 Then, we can connect it with command `ssh host`
+
+## Script
+
+Here is a script for ssh authorization `server_auth.sh`.
+
+First, generate server_auth key pairs with `ssh-keygen`, here, we generate key pairs called `server_auth`.
+
+You should make a file for your ip list, such as `ips_pub.txt`:
+
+```txt
+xxx.xxx.xxx.xxx
+xxx.xxx.xxx.xxx
+```
+
+Then, trigger the authorization of user with command line:
+
+```shell
+sh ./server_auth.sh user ips_pub.txt ~/.ssh/server_auth.pub
+```
